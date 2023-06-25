@@ -1,4 +1,4 @@
-# Res tApi com Spring Boot
+# Rest Api com Spring Boot
 
 Trabalho de Computação Movel
 
